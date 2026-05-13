@@ -129,5 +129,5 @@ Actualmente estoy reforzando mi perfil en desarrollo full-stack y utilizando her
 ## Actividad
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/iglnierod/iglnierod/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/iglnierod/iglnierod/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
