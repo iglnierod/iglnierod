@@ -110,19 +110,10 @@ Actualmente estoy reforzando mi perfil en desarrollo full-stack y utilizando her
 
 ## Actualmente estoy aprendiendo
 
-- Mejora de arquitecturas full-stack.
-- Desarrollo backend con Java y Spring Boot.
-- Buenas prácticas de documentación técnica.
-- Uso de IA como apoyo al desarrollo, aprendizaje y productividad.
-
----
-
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iglnierod&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iglnierod&layout=compact&theme=tokyonight" height="165" />
-</p>
+- Mejora de arquitecturas full-stack
+- Desarrollo con Next.js
+- Buenas prácticas de documentación técnica
+- Uso de IA como apoyo al desarrollo, aprendizaje y productividad
 
 ---
 
