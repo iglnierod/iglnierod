@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Rodrigo Iglesias Nieto - Full Stack Developer" />
 </p>
 
-<h1 align="center">Hola, soy Rodrigo Iglesias Nieto 👋</h1>
+<h1 align="center">Hola, soy Rodri 👋</h1>
 
 <p align="center">
   Desarrollador Web Full-Stack junior con experiencia en React, Angular, Java, Spring Boot, ASP.NET, PHP y SQL.
@@ -16,7 +16,7 @@
   <a href="https://github.com/iglnierod">
     <img src="https://img.shields.io/badge/GitHub-iglnierod-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/rodrigo-iglesias-nieto/">
     <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Iglesias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
